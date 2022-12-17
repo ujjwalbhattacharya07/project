@@ -20,7 +20,7 @@ function App() {
   const [uri, setUri] = useState("");
   const [tokens, setTokens] = useState([]);
 
-  const contractAddress = "0xd3F4aFa19aC0229496f2A4321f727EDe030c5bbf";
+  const contractAddress = "0x025BeB6082251daFb4cd3efE795A8A3683Ed1bd2";
 
   const { ethereum } = window;
 
