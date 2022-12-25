@@ -6,7 +6,7 @@ function Footer() {
       <div className="container">
         <div className="row">
           <div className="col-md-6">
-            <p>Made With ❤️ By Manidhar kodurupaka</p>
+            <p>Made With ❤️ By Shubham,Ujjwal and Pardhiv</p>
           </div>
           <div className="col-md-6 text-end">
            <span style={{ fontSize: 30 }}><i className="fa fa-facebook"></i></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
